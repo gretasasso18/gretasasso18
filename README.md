@@ -1,16 +1,19 @@
-### Hi there 👋
+# Olá
 
-<!--
-**gretasasso18/gretasasso18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Greta Sasso, aspirante em programação web, iniciando com os programas
 
-Here are some ideas to get you started:
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gretasasso18&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+# Projetos Recentes
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gretasasso18&repo=greta.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gretasasso18&repo=maratona-explorer)](https://github.com/anuraghazra/github-readme-stats)
+
+# Contato
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/greta-sasso-374aa890)
+
+📧 gsasso185@gmail.com
